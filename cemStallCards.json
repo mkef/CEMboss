@@ -1,0 +1,83 @@
+{
+         "mrBro":{
+        	"title": "kAinos",
+        	"subtitle": "Meet KAINOS",
+        	"text": "kAinos is waiting for you at the stall.",
+        	"images": [
+                        "https://virtusaonline.sharepoint.com/sites/cmbcemdev/Style%20Library/TechDay2018/Banners/kAInosPoster.jpg"                                      
+        	],
+                "buttons":[
+                ]
+                
+        },
+        "spinWheel":{
+        	"title": "Spin the Wheel and Win",
+        	"subtitle": "Spin the wheel, answer questions and win",
+        	"text": "Hit the spinning wheel and answer the question accordingly. Each participant will get three questions to answer and win. Visit CEM stall to play and win fabulous prizes!",
+        	"images": [
+                        "https://virtusaonline.sharepoint.com/sites/cmbcemdev/Style%20Library/TechDay2018/Banners/SpinWheelPoster.jpg"                                      
+        	],
+                "buttons":[
+                ]
+                
+        },
+        "SnapAndWin":{
+        	"title": "Snap and Win",
+        	"subtitle": "Snap a selfie and upload to Yammer",
+        	"text": "Take a selfie in front of our CEM stall with frames or props and upload the photo to Yammer!! There wiil be a raffle draw for the lucky winners at the end of the day. Why not try and see how lucky you are to win the prizes.",
+        	"images": [
+                        "https://virtusaonline.sharepoint.com/sites/cmbcemdev/Style%20Library/TechDay2018/Banners/Selfie.png"                                      
+        	],
+                "buttons":[
+                        {"title": "Post on Yammer","url": "https://www.yammer.com/virtusa.com/#/threads/inGroup?type=in_group&feedId=13378648"}
+                ]
+                
+        },
+        "kahootGame":{
+        	"title": "MobiQuiz",
+        	"subtitle": "Answer questions from your own smart phone",
+        	"text": "It’s is an exciting game where players get to learn lots of things in just few minutes. You can access the game with your own device (Phones, Tabs and laptop) where you will be presented with a set of questions. All you have to do is give the correct answers. But remember being the smartest is not enough, you have to be the fastest as well to be the winner.Join with us and walk away with amazing gifts.Do not forget to visit our stall and see how fast and smart you are!",
+        	"images": [
+                        "https://kahoot.com/files/2017/04/screens.png"                                      
+        	],
+                "buttons":[
+                        {"title": "Take the Challenge","url": "https://kahoot.it/"}
+                ]
+                
+        },
+         "digitalPractice":{
+        	"title": "Digital Practise Expertise Area",
+        	"subtitle": "This will give you idea about all the expertise areas CEM.",
+        	"text": "Visit the stall and learn about Digital Practise Expertise Areas.",
+        	"images": [
+                        "https://virtusaonline.sharepoint.com/:i:/r/sites/cmbcemdev/Style%20Library/Images/cem%20logo.png"                                      
+        	],
+                "buttons":[
+                        {"title": "Learn More","url": "http://www.virtusa.com/services/customer-experience-management/technology-offerings/"}
+                ]
+                
+        },
+         "vortex":{
+        	"title": "VORTEX",
+        	"subtitle": "Virtusa Office 365 Revolutionized Team Experience",
+        	"text": "VORTEX is a reusable accelerator framework for quickly building Intranet developed by Virtusa CEM practise.You can get to know all the internals form the developers who coded.",
+        	"images": [
+                        "https://virtusaonline.sharepoint.com/:i:/r/sites/cmbcemdev/Style%20Library/Images/cem%20logo.png"                                      
+        	],
+                "buttons":[
+                        {"title": "Learn More","url": "http://www.virtusa.com/services/customer-experience-management/technology-offerings/"}
+                ]                
+        },
+        "o365":{
+        	"title": "O365 Features",
+        	"subtitle": "Office 365",
+        	"text": "Learn about latest cloud and mobile features of O365.",
+        	"images": [
+                        "http://www.webster.edu/images/technology/office365/office365-logo.jpg"                                      
+        	],
+                "buttons":[
+                        {"title": "Learn More","url": "https://www.office.com/"}
+                ]                
+        }
+}
+
